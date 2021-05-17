@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**special4code/special4code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json
+Aleksa Piljevic {
+  "job":      "Web Developer",
+  "country":  "Serbia",
+  "city":     "Zrenjanin (RS)",
+  "stack":    ["PHP", "Laravel", "MySQL", "SQL", "HTML", "CSS", "JS", "WordPress", "..."],
+  "interest": ["Clean", "Minimal", "Fast", "Testing", "OS X", "..."]
+}
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web: [darkdevstudio.com](https://darkdevstudio.com/)
+- E-Mail: [aleksa@darkdevstudio.com](mailto:aleksa@darkdevstudio.com)
+- LinkedIn: [aleksapiljevic](https://www.linkedin.com/in/aleksapiljevic/)
