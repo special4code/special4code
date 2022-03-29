@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 my name is Aleksa
 
 ```json
 Aleksa Piljevic {
@@ -9,6 +9,10 @@ Aleksa Piljevic {
   "interest": ["Clean", "Minimal", "Fast", "Testing", "OS X", "..."]
 }
 ```
+
+![special4code's github stats](https://github-readme-stats.vercel.app/api?username=special4code&show_icons=true&theme=default&include_all_commits=true)
+
+![Views](https://komarev.com/ghpvc/?username=special4code)
 
 - Web: [darkdevstudio.com](https://darkdevstudio.com/)
 - E-Mail: [aleksa@darkdevstudio.com](mailto:aleksa@darkdevstudio.com)
