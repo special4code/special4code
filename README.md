@@ -14,6 +14,10 @@ Aleksa Piljevic {
 
 ![Views](https://komarev.com/ghpvc/?username=special4code)
 
+I'm Aleksa Piljevic. I'm from Serbia. I'm a Head of Development at [DarkDev Studio](https://darkdevstudio.com/) where we work on PHP and JavaScript applications ranging from small businesses to very large outdoor clients.
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/aleksapiljevic/).
+
 - Web: [darkdevstudio.com](https://darkdevstudio.com/)
 - E-Mail: [aleksa@darkdevstudio.com](mailto:aleksa@darkdevstudio.com)
 - LinkedIn: [aleksapiljevic](https://www.linkedin.com/in/aleksapiljevic/)
