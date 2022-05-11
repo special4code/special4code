@@ -2,10 +2,10 @@
 
 ```json
 Aleksa Piljevic {
-  "job":      "Web Developer",
+  "job":      "Software Developer",
   "country":  "Serbia",
   "city":     "Zrenjanin (RS)",
-  "stack":    ["PHP", "Laravel", "MySQL", "SQL", "HTML", "CSS", "JS", "WordPress", "..."],
+  "stack":    ["PHP", "Laravel", "JavaScript", "React JS", "MySQL", "SQL", "HTML", "CSS", "WordPress", "REST APIs", "..."],
   "interest": ["Clean", "Minimal", "Fast", "Testing", "OS X", "..."]
 }
 ```
