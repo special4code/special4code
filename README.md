@@ -10,7 +10,26 @@ Aleksa Piljevic {
 }
 ```
 
-![special4code's github stats](https://github-readme-stats.vercel.app/api?username=special4code&show_icons=true&theme=default&include_all_commits=true)
+**Languages and Tools**
+
+<code><img height="35rem" src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/php-256.png"/></code>
+<code><img height="35rem" src="https://cdn4.iconfinder.com/data/icons/logos-3/256/laravel-256.png"/></code>
+<code><img height="35rem" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png"/></code>
+<code><img height="35rem" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png"/></code>
+<code><img height="35rem" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png"/></code>
+<code><img height="35rem" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-256.png"/></code>
+
+<br>
+
+📈 My Github stats
+
+<a href="https://github.com/special4code">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=special4code&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="DarkDev Studio GitHub Stats" />
+</a>
+
+<a href="https://github.com/special4code">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=special4code&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=270" alt="DarkDev Studio Most Used GitHub Languages" />
+</a>
 
 ![Views](https://komarev.com/ghpvc/?username=special4code)
 
