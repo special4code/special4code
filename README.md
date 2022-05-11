@@ -31,7 +31,7 @@ Aleksa Piljevic {
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=special4code&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=270" alt="DarkDev Studio Most Used GitHub Languages" />
 </a>
 
-<br>
+<br><br>
 
 ![Views](https://komarev.com/ghpvc/?username=special4code)
 
