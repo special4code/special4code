@@ -31,10 +31,6 @@ Aleksa Piljevic {
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=special4code&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=270" alt="DarkDev Studio Most Used GitHub Languages" />
 </a>
 
-<br><br>
-
-![Views](https://komarev.com/ghpvc/?username=special4code)
-
 I'm Aleksa Piljevic. I'm from Serbia. I'm a Head of Development at [DarkDev Studio](https://darkdevstudio.com/) where we work on PHP and JavaScript applications ranging from small businesses to very large outdoor clients.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/aleksapiljevic/).
@@ -42,3 +38,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/aleksapiljevic/).
 - Web: [darkdevstudio.com](https://darkdevstudio.com/)
 - E-Mail: [aleksa@darkdevstudio.com](mailto:aleksa@darkdevstudio.com)
 - LinkedIn: [aleksapiljevic](https://www.linkedin.com/in/aleksapiljevic/)
+
+<br>
+
+![Views](https://komarev.com/ghpvc/?username=special4code)
