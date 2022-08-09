@@ -6,7 +6,7 @@ Aleksa Piljevic {
   "job":      "Software Developer",
   "country":  "Serbia",
   "city":     "Zrenjanin (RS)",
-  "stack":    ["PHP", "Laravel", "JavaScript", "React JS", "MySQL", "SQL", "HTML", "CSS", "WordPress", "REST APIs", "..."],
+  "stack":    ["PHP", "Laravel", "JavaScript", "React JS", "Vue JS", "HTML5", "CSS", "SASS", "MySQL", "SQL", "WordPress", "REST APIs", "..."],
   "interest": ["Clean", "Minimal", "Fast", "Testing", "OS X", "..."]
 }
 ```
