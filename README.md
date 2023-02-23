@@ -16,7 +16,7 @@ I'm Aleksa Piljevic. I'm from Serbia. I'm a Head of Development at [DarkDev Stud
 * 🌍  I'm based in Serbia
 * 🖥️  See my portfolio at [website](http://aleksa.darkdevstudio.com)
 * ✉️  You can contact me at [aleksa@darkdevstudio.com](mailto:aleksa@darkdevstudio.com)
-* 🚀  I'm currently working on [Commundiy](http://commundiy.com)
+* 🚀  I'm currently working on [Commundiy](http://commundiy.com) and [Stallion Central](https://stallioncentral.com/)
 * ⚡  Software Magician
 
 <a href="https://www.github.com/special4code" target="_blank" rel="noreferrer">![Views](https://komarev.com/ghpvc/?username=special4code&style=for-the-badge&color=14b8a6&labelColor=1c1917&logo=github)</a>
