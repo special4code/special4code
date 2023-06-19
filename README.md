@@ -16,7 +16,7 @@ Hi, I'm [Aleksa Piljevic](https://aleksapiljevic.com/), a passionate Full Stack 
 * 🌍  Based in Serbia
 * 🖥️  See my portfolio at [website](https://aleksapiljevic.com/)
 * 📫  Reach me at [aleksa.piljevic@gmail.com](mailto:aleksa.piljevic@gmail.com)
-* 🚀  Currently working on [Commundiy](http://commundiy.com) and [Stallion Central](https://stallioncentral.com/)
+* 🚀  Currently working on [Commundiy](https://commundiy.com) and [Stallion Central](https://stallioncentral.com/)
 * 🌱  Currently learning React and Node
 * ⚡   Software Magician
 
