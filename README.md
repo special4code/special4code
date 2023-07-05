@@ -6,19 +6,19 @@ Aleksa Piljevic {
   "job":      "Senior Web Developer",
   "country":  "Serbia",
   "city":     "Zrenjanin (RS)",
-  "stack":    ["PHP", "Laravel", "JavaScript", "React JS", "HTML5", "CSS", "Post CSS", "SASS", "MySQL", "SQL", "WordPress", "REST APIs", "..."],
+  "stack":    ["PHP", "Laravel", "JavaScript", "React JS", "MERN", "HTML5", "CSS", "Post CSS", "SASS", "MySQL", "SQL", "WordPress", "REST APIs", "..."],
   "interest": ["Clean", "Minimal", "Fast", "Testing", "OS X", "..."]
 }
 ```
 
-Hi, I'm [Aleksa Piljevic](https://aleksapiljevic.com/), a passionate Full Stack web developer from Serbia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Aleksa Piljevic](https://aleksapiljevic.com/), a passionate Full Stack web developer from Serbia. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 * 🌍  Based in Serbia
 * 🖥️  See my portfolio at [website](https://aleksapiljevic.com/)
 * 📫  Reach me at [aleksa.piljevic@gmail.com](mailto:aleksa.piljevic@gmail.com)
-* 🚀  Currently working on [Commundiy](https://commundiy.com) and [Stallion Central](https://stallioncentral.com/)
-* 🌱  Currently learning React and Node
-* ⚡   Software Magician
+* 🚀  Currently working on [Choovie Rentals](https://www.choovierentals.com/) and [Stallion Central](https://stallioncentral.com/)
+* 🌱  Currently learning React and Node (MERN)
+* ⚡  Software Magician
 
 <a href="https://www.github.com/special4code" target="_blank" rel="noreferrer">![Views](https://komarev.com/ghpvc/?username=special4code&style=for-the-badge&color=14b8a6&labelColor=1c1917&logo=github)</a>
 
