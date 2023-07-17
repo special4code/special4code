@@ -6,7 +6,7 @@ Aleksa Piljevic {
   "job":      "Senior Web Developer",
   "country":  "Serbia",
   "city":     "Zrenjanin (RS)",
-  "stack":    ["PHP", "Laravel", "JavaScript", "React JS", "MERN", "HTML5", "CSS", "Post CSS", "SASS", "MySQL", "SQL", "WordPress", "REST APIs", "..."],
+  "stack":    ["PHP", "Laravel", "JavaScript", "React JS", "MERN", "HTML5", "CSS", "Post CSS", "SASS", "MySQL", "SQL", "MongoDB", "WordPress", "REST APIs", "..."],
   "interest": ["Clean", "Minimal", "Fast", "Testing", "OS X", "..."]
 }
 ```
