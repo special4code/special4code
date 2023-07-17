@@ -11,13 +11,12 @@ Aleksa Piljevic {
 }
 ```
 
-Hi, I'm [Aleksa Piljevic](https://aleksapiljevic.com/), a passionate Full Stack web developer from Serbia. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Aleksa Piljevic](https://aleksapiljevic.com/), a passionate senior Full Stack web developer from Serbia. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 * 🌍  Based in Serbia
 * 🖥️  See my portfolio at [website](https://aleksapiljevic.com/)
 * 📫  Reach me at [aleksa.piljevic@gmail.com](mailto:aleksa.piljevic@gmail.com)
 * 🚀  Currently working on [Choovie Rentals](https://www.choovierentals.com/) and [Stallion Central](https://stallioncentral.com/)
-* 🌱  Currently learning React and Node (MERN)
 * ⚡  Software Magician
 
 <a href="https://www.github.com/special4code" target="_blank" rel="noreferrer">![Views](https://komarev.com/ghpvc/?username=special4code&style=for-the-badge&color=14b8a6&labelColor=1c1917&logo=github)</a>
